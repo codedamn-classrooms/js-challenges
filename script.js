@@ -1,5 +1,7 @@
-const timer = document.querySelector('#time span')
+let num1 = 100
+let num2 = 300
 
-setInterval(() => {
-	timer.innerText = new Date().toLocaleString()
-}, 1000)
+function swapNum1Num2() {
+	// write your code here
+	// use no temporary variable
+}
